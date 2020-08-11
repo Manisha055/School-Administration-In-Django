@@ -2,9 +2,7 @@
 
 School Adminstration using  Class-Based-view🔥 . Which is Advanced Topic in Django
 
-CBV Means Were We can Work With Views like 
-
-👇
+CBV Means 👇
 
 [ListView,CreateView,DetailView,DeleteView,UpdateView.]😉
 
